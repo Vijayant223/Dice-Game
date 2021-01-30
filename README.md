@@ -1,2 +1,2 @@
 # Dice-Game
-Dice game project
+Dice game project(First game I built)
